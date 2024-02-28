@@ -1,0 +1,12 @@
+:root {
+    --color-link-red: #ff0000;
+
+}
+
+.link {
+    color: var(--color-link-red);
+}
+
+.text {
+    font-size: 24px;
+}
