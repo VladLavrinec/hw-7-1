@@ -1,12 +1,7 @@
-:root {
-    --color-link-red: #ff0000;
-
+a[href="https://www.youtube.com/"],a[href="https://validator.w3.org/"] {
+    color: red;
 }
 
-.link {
-    color: var(--color-link-red);
-}
-
-.text {
+ul + p {
     font-size: 24px;
 }
